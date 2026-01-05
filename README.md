@@ -13,7 +13,8 @@ Proyecto realizado para la materia de Estructuras de Control en Python por Manue
 ## Instalación
 
 1. Clona el repositorio: `git clone https://github.com/CBManuelCSP/GestorPlantillasFutbol.git`
-2. Ejecuta `python main.py` (python 3.10+ requerido).
+2. Ejecuta 'pip install -r requirements.txt' para instalar las dependencias.
+3. Ejecuta `python main.py` (python 3.10+ requerido).
 
 ## Estructura
 
